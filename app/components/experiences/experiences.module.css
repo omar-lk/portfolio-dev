@@ -1,0 +1,72 @@
+.experiencesContainer {
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.sectionTitle {
+  font-size: 2rem;
+  color: #6a1fff;
+  margin-bottom: 2rem;
+  font-family: 'Work Sans', Sans-serif;
+}
+
+.experience {
+  background: #fff;
+  margin: 1rem 0;
+  padding: 1.5rem;
+  /* border-radius: 8px; */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
+}
+
+.experience:hover {
+  transform: translateY(-10px);
+}
+
+.experience h2 {
+  font-size: 1.5rem;
+  color: #6a1fff;
+  margin-bottom: 0.5rem;
+  font-family: 'Work Sans', Sans-serif;
+}
+
+.experience .company {
+  font-weight: bold;
+  color: #6a1fff;
+}
+
+.experience .location {
+  font-style: italic;
+  color: #888;
+}
+
+.experience .duration {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+.experience p {
+  font-size: 1rem;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .sectionTitle {
+    font-size: 1.5rem;
+  }
+
+  .experience {
+    padding: 1rem;
+  }
+
+  .experience h2 {
+    font-size: 1.2rem;
+  }
+
+  .experience p {
+    font-size: 0.9rem;
+  }
+}

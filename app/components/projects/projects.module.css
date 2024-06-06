@@ -1,0 +1,48 @@
+.projectsContainer {
+  text-align: center;
+  padding: 2rem;
+  background-color: #f7f7f7;
+}
+
+.sectionTitle {
+  font-size: 3rem;
+  color: #6a1fff;
+  margin-bottom: 2rem;
+  font-family: 'Work Sans', Sans-serif;
+}
+
+.project {
+  background: #fff;
+  margin: 2rem 0;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
+}
+
+.project:hover {
+  transform: translateY(-10px);
+}
+
+.project h2 {
+  font-size: 2rem;
+  color: #6a1fff;
+  margin-bottom: 1rem;
+  font-family: 'Work Sans', Sans-serif;
+}
+
+.project p {
+  font-size: 1rem;
+  color: #333;
+  line-height: 1.6;
+}
+
+.company {
+  font-weight: bold;
+  color: #6a1fff;
+}
+
+.location {
+  font-style: italic;
+  color: #888;
+}

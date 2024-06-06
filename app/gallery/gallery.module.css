@@ -1,0 +1,7 @@
+.galleryContainer {
+  min-height: 100vh;
+  max-width: 60rem;
+  width: 100%;
+  padding: 2rem;
+  box-sizing: border-box;
+}
