@@ -1,5 +1,5 @@
-import React from 'react'
-import styles from './hero.module.css'
+import React from 'react';
+import styles from './hero.module.css';
 
 const Hero = () => {
   return (
@@ -8,9 +8,13 @@ const Hero = () => {
         <div className={styles.aboutContainer}>
           <h1>hey, I&apos;m Omar👋.</h1>
           <h2>
-            I build unique, efficient web applications tailored to your needs.
-            Let&apos;s turn your ideas into reality and create something amazing
-            together!
+            I’m a Senior React & Next.js Engineer with 9+ years of experience
+            building scalable, production-ready web applications for companies
+            across Europe and North America. I specialize in high-performance
+            frontends and full-stack architectures using Next.js, React,
+            PostgreSQL, and modern cloud infrastructure. I work fluently in
+            English and French and focus on clean architecture, strong UX, and
+            reliable execution.
           </h2>
         </div>
         <div className={styles.profilePicture}>
@@ -18,6 +22,6 @@ const Hero = () => {
         </div>
       </div>
     </div>
-  )
-}
-export default Hero
+  );
+};
+export default Hero;

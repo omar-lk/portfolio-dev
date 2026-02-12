@@ -1,10 +1,30 @@
-import React from 'react'
-import styles from './experiences.module.css'
+import React from 'react';
+import styles from './experiences.module.css';
 
 const Experiences = () => {
   return (
     <div className={styles.experiencesContainer}>
       <h1 className={styles.sectionTitle}>Experiences</h1>
+      <div className={styles.experience}>
+        <h2>Senior React & Next.js Engineer (Freelance)</h2>
+        <a href="#" target="_blank">
+          <p className={styles.company}>European Energy-Tech Company</p>
+        </a>
+        <p className={styles.location}>Remote</p>
+        <p className={styles.duration}>2024 Present</p>
+        <p>
+          Leading development of scalable web applications in the energy and
+          billing domain using Next.js, React, Prisma, and PostgreSQL. Designed
+          and maintained complex business logic for contract management, invoice
+          generation, and third party API integrations.
+        </p>
+        <p>
+          Architected full stack systems deployed on DigitalOcean using Docker,
+          implementing CI/CD pipelines and performance optimizations.
+          Collaborate closely with product managers and engineers to deliver
+          production ready SaaS features serving real-world business operations.
+        </p>
+      </div>
 
       <div className={styles.experience}>
         <h2>React Developer</h2>
@@ -71,7 +91,7 @@ const Experiences = () => {
         </p>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Experiences
+export default Experiences;

@@ -1,12 +1,14 @@
-import React from 'react'
-import styles from './footer.module.css'
-import logo from './logo.png' // Make sure to replace with the actual path to your logo image
+import React from 'react';
+import styles from './footer.module.css';
+import logo from './logo.png'; // Make sure to replace with the actual path to your logo image
 
 const Footer = () => {
   return (
     <div className={styles.footerContainer}>
       {/* <img src="/logo-last.png" alt="Logo" className={styles.footerLogo} /> */}
-      <div className={styles.footerPowered}>Powered by Omar LEKOUCH. All Rights Reserved 2024.</div>
+      <div className={styles.footerPowered}>
+        Powered by Omar LEKOUCH. All Rights Reserved 2026.
+      </div>
       <div className={styles.footerInfo}>
         <div className={styles.footerLinks}>
           <a
@@ -28,7 +30,7 @@ const Footer = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;
