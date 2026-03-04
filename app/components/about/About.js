@@ -23,23 +23,20 @@ const About = () => {
         <div className={styles.aboutText}>
           <h1>Hey there! I&apos;m Omar LEKOUCH</h1>
           <p>
-            Picture a web developer with the brain of a genius and the
-            creativity of an artist – that&apos;s me! Since 2016, I&apos;ve been
-            crafting digital wonders in the vibrant city of Marrakech, Morocco.
-            Whether you need the next big app or a bug-fixing superhero,
-            I&apos;m your go-to person.
+            I&apos;m a senior full stack engineer based in Marrakech, Morocco.
+            Since 2016 I&apos;ve been building web products for companies in
+            Morocco, Switzerland, the United States, and France.
           </p>
           <p>
-            With expertise in React.js and Laravel, I transform code into
-            user-friendly masterpieces. My communication skills ensure smooth
-            sailing whether I&apos;m working solo or as part of a team. Got a
-            tight deadline? I&apos;m nearly that fast.
+            I specialize in complex business logic — billing systems, contract
+            flows, API integrations — not just interfaces. Most recent work was
+            a production platform for a French energy company integrating
+            Haulogy, Enedis, and Pennylane.
           </p>
           <p>
-            When I&apos;m not buried in code, you&apos;ll find me out on the
-            streets capturing life&apos;s moments through my camera lens. Dive
-            into my gallery for a visual treat. Let&apos;s create something
-            amazing together!
+            I&apos;m fluent in French and English and work remotely with
+            European and international teams. Outside of work I&apos;m into
+            photography, travel, and the slow life Marrakech offers.
           </p>
           <a href="/gallery" className={styles.galleryLink}>
             My Gallery

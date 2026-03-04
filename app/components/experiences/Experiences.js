@@ -13,16 +13,13 @@ const Experiences = () => {
         <p className={styles.location}>Remote</p>
         <p className={styles.duration}>2024 Present</p>
         <p>
-          Leading development of scalable web applications in the energy and
-          billing domain using Next.js, React, Prisma, and PostgreSQL. Designed
-          and maintained complex business logic for contract management, invoice
-          generation, and third party API integrations.
-        </p>
-        <p>
-          Architected full stack systems deployed on DigitalOcean using Docker,
-          implementing CI/CD pipelines and performance optimizations.
-          Collaborate closely with product managers and engineers to deliver
-          production ready SaaS features serving real-world business operations.
+          Built and maintained a production internal platform for a French
+          energy company. Developed contract creation flows, customer
+          dashboards, and billing automation tools. Integrated third party APIs
+          including Haulogy for energy contract data, Enedis for electricity
+          delivery point retrieval, and Pennylane for accounting
+          synchronization. Stack: React, Next.js, Node.js, Prisma, PostgreSQL,
+          Tailwind, Docker, DigitalOcean.
         </p>
       </div>
 
