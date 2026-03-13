@@ -25,7 +25,7 @@ const About = () => {
           <p>
             I&apos;m a senior full stack engineer based in Marrakech, Morocco.
             Since 2016 I&apos;ve been building web products for companies in
-            Morocco, Switzerland, the United States, and France.
+            Morocco, Switzerland, the United States, and France .
           </p>
           <p>
             I specialize in complex business logic — billing systems, contract
