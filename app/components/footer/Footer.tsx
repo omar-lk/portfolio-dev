@@ -1,6 +1,5 @@
 import React from 'react';
 import styles from './footer.module.css';
-import logo from './logo.png'; // Make sure to replace with the actual path to your logo image
 
 const Footer = () => {
   return (

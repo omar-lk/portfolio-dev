@@ -2,7 +2,6 @@
 
 import React, { useState } from 'react'
 import Link from 'next/link'
-import Image from 'next/image'
 import styles from './Navbar.module.css'
 
 const Navbar = () => {
@@ -15,11 +14,11 @@ const Navbar = () => {
   return (
     <nav className={styles.navbar}>
       <Link href="/" className={styles.navbarItem}>
-      <div class={styles.logo}>
-        <span class={styles.logoBracket}>&lt;</span>
-        <span class={styles.logoText}>OMR</span>
-        <span class={styles.logoBracket}>/&gt;</span>
-      </div>
+        <div className={styles.logo}>
+          <span className={styles.logoBracket}>&lt;</span>
+          <span className={styles.logoText}>OMR</span>
+          <span className={styles.logoBracket}>/&gt;</span>
+        </div>
       </Link>
       {/* <div className={styles.navbarLogo}>
         <Image src="/logo-last.png" alt="logo" width={50} height={50} />

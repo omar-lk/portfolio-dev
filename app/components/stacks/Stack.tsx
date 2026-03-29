@@ -15,6 +15,11 @@ import {
   SiGithub,
 } from 'react-icons/si';
 
+type TechProps = {
+  Icon: React.ComponentType<{ className?: string }>;
+  name: string;
+};
+
 const Stack = () => {
   return (
     <div className={styles.stackContainer}>
@@ -51,7 +56,7 @@ const Stack = () => {
   );
 };
 
-const Tech = ({ Icon, name }) => {
+const Tech = ({ Icon, name }: TechProps) => {
   return (
     <div className={styles.tooltip} aria-label={name}>
       <div className={styles.iconWrap}>

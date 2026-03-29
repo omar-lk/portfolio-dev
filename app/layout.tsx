@@ -1,14 +1,16 @@
 import { Inter } from 'next/font/google'
+import type { Metadata } from 'next'
+import type { ReactNode } from 'react'
 import './globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export const metadata = {
+export const metadata: Metadata = {
   title: 'Omar portfolio',
   description: 'minimalist portfolio design'
 }
 
-export default function RootLayout({ children }) {
+export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
       <head>
