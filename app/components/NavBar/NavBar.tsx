@@ -27,12 +27,15 @@ const Navbar = () => {
         <Link href="/" className={styles.navbarItem}>
           Home
         </Link>
+        <Link href="/#work" className={styles.navbarItem}>
+          Work
+        </Link>
         <Link href="/about" className={styles.navbarItem}>
           About
         </Link>
-        {/* <Link href="#projects" className={styles.navbarItem}>
-          Projects
-        </Link> */}
+        <Link href="/resume.pdf" target="_blank" className={styles.navbarItem}>
+          Resume
+        </Link>
         <Link href="/#contact" className={styles.navbarItem}>
           Contact
         </Link>

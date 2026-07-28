@@ -13,6 +13,9 @@ import {
   SiDocker,
   SiDigitalocean,
   SiGithub,
+  SiOpenai,
+  SiAnthropic,
+  SiSupabase,
 } from 'react-icons/si';
 
 type TechProps = {
@@ -24,6 +27,15 @@ const Stack = () => {
   return (
     <div className={styles.stackContainer}>
       <h1 className={styles.sectionTitle}>Core Technologies</h1>
+
+      <div className={styles.categoryTitle}>AI / LLM</div>
+      <div className={styles.stackRow}>
+        <Tech Icon={SiOpenai} name="OpenAI Embeddings" />
+        <Tech Icon={SiAnthropic} name="Anthropic Claude" />
+        <Tech Icon={SiSupabase} name="Supabase" />
+        <TextTag name="pgvector" />
+        <TextTag name="MCP" />
+      </div>
 
       <div className={styles.categoryTitle}>Frontend</div>
       <div className={styles.stackRow}>
@@ -63,6 +75,14 @@ const Tech = ({ Icon, name }: TechProps) => {
         <Icon className={styles.icon} />
       </div>
       <span className={styles.tooltiptext}>{name}</span>
+    </div>
+  );
+};
+
+const TextTag = ({ name }: { name: string }) => {
+  return (
+    <div className={styles.textTag} aria-label={name}>
+      {name}
     </div>
   );
 };

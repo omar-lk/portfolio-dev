@@ -6,20 +6,15 @@ const Experiences = () => {
     <div className={styles.experiencesContainer}>
       <h1 className={styles.sectionTitle}>Experiences</h1>
       <div className={styles.experience}>
-        <h2>Senior React & Next.js Engineer (Freelance)</h2>
-        <a href="#" target="_blank">
-          <p className={styles.company}>European Energy-Tech Company</p>
-        </a>
+        <h2>Senior React &amp; Next.js Engineer (Freelance)</h2>
+        <p className={styles.company}>European Energy-Tech Company</p>
         <p className={styles.location}>Remote</p>
-        <p className={styles.duration}>2024 Present</p>
+        <p className={styles.duration}>2024–Present</p>
         <p>
-          Built and maintained a production internal platform for a French
-          energy company. Developed contract creation flows, customer
-          dashboards, and billing automation tools. Integrated third party APIs
-          including Haulogy for energy contract data, Enedis for electricity
-          delivery point retrieval, and Pennylane for accounting
-          synchronization. Stack: React, Next.js, Node.js, Prisma, PostgreSQL,
-          Tailwind, Docker, DigitalOcean.
+          Contract creation flows, customer dashboards, and billing automation
+          for a French energy company, integrating Haulogy, Enedis, and
+          Pennylane. Full case study{' '}
+          <a href="#work" className={styles.caseStudyLink}>above</a>.
         </p>
       </div>
 
@@ -29,17 +24,11 @@ const Experiences = () => {
           <p className={styles.company}>Interlincx</p>
         </a>
         <p className={styles.location}>Los Angeles, CA</p>
-        <p className={styles.duration}>2021-2024</p>
+        <p className={styles.duration}>2021–2024</p>
         <p>
-          Front-end developer responsible for creating sophisticated UIs to
-          enable content editors and analysts to create monetizable articles.
-          Iteratively built robust solutions like form builders and client
-          templates using React, accounting for complex requirements.
-          Collaborated with cross-functional teams including engineers, product
-          managers, and business leaders to refine tools and processes. Worked
-          closely with the engineering team, coordinating via GitHub and Slack,
-          to continuously enhance the Netlify CMS. Demonstrated critical
-          thinking and organization.
+          Built form builders and client templates for content editors and
+          analysts producing monetizable articles, and worked directly with
+          the engineering team to extend the Netlify CMS.
         </p>
       </div>
 
@@ -49,29 +38,22 @@ const Experiences = () => {
           <p className={styles.company}>Mobiletice</p>
         </a>
         <p className={styles.location}>Geneva, Switzerland</p>
-        <p className={styles.duration}>2020-2022</p>
+        <p className={styles.duration}>2020–2022</p>
         <p>
-          Built a large e-learning platform for Mobiletice clients using Laravel
-          and React, incorporating SSO authentication, web sockets, database
-          management, and deployments.
+          Built a large e-learning platform with SSO authentication and
+          real-time features via web sockets, using Laravel and React.
         </p>
       </div>
 
       <div className={styles.experience}>
         <h2>Full Stack Developer</h2>
-        <a href="https://www.interlincx.com/" target="_blank">
-          <p className={styles.company}>Sagatech</p>
-        </a>
+        <p className={styles.company}>Sagatech</p>
         <p className={styles.location}>Meknes, Morocco</p>
-        <p className={styles.duration}>2019-2020</p>
+        <p className={styles.duration}>2019–2020</p>
         <p>
-          Engineered user-friendly interfaces, integrated payment gateways and
-          barcode scanners, optimized performance, and ensured data integrity.
-          Designed efficient SQL Server databases and implemented complex
-          business logic. Later, developed a cloud version using Laravel,
-          React/Node, and MySQL, collaborating cross-functionally to gather
-          requirements and deliver high-quality, reliable solutions through
-          rigorous testing.
+          Built payment gateway and barcode scanner integrations on a SQL
+          Server backend, then rebuilt the product as a cloud version using
+          Laravel, React/Node, and MySQL.
         </p>
       </div>
 
@@ -81,10 +63,10 @@ const Experiences = () => {
           <p className={styles.company}>IN4</p>
         </a>
         <p className={styles.location}>Meknes, Morocco</p>
-        <p className={styles.duration}>2018-2019</p>
+        <p className={styles.duration}>2018–2019</p>
         <p>
-          Worked on building multiple e-commerce websites with specific
-          requirements for each client using the Laravel framework.
+          Built multiple e-commerce websites, each with client-specific
+          requirements, using Laravel.
         </p>
       </div>
     </div>

@@ -62,6 +62,21 @@
   background-color: #5a00d1;
 }
 
+.aboutText a.inlineLink {
+  display: inline;
+  margin-top: 0;
+  padding: 0;
+  color: #6a1fff;
+  background-color: transparent;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.aboutText a.inlineLink:hover {
+  background-color: transparent;
+  opacity: 0.75;
+}
+
 /* Responsive styles */
 @media (max-width: 768px) {
   .aboutContainer {

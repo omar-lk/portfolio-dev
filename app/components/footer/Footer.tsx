@@ -4,10 +4,7 @@ import styles from './footer.module.css';
 const Footer = () => {
   return (
     <div className={styles.footerContainer}>
-      {/* <img src="/logo-last.png" alt="Logo" className={styles.footerLogo} /> */}
-      <div className={styles.footerPowered}>
-        Powered by Omar LEKOUCH. All Rights Reserved 2026.
-      </div>
+      <div className={styles.footerPowered}>© 2026 Omar Lekouch</div>
       <div className={styles.footerInfo}>
         <div className={styles.footerLinks}>
           <a
@@ -25,6 +22,9 @@ const Footer = () => {
             rel="noopener noreferrer"
           >
             LinkedIn
+          </a>
+          <a href="/resume.pdf" className={styles.footerLink} target="_blank" rel="noopener noreferrer">
+            Resume
           </a>
         </div>
       </div>
