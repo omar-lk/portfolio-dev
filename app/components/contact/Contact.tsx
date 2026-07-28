@@ -14,7 +14,7 @@ const Contact = () => {
           Email me
         </a>
         <a
-          href="https://www.linkedin.com/in/omar-lekouch-2392ab127/"
+          href="https://www.linkedin.com/in/omar-lekouch/"
           target="_blank"
           rel="noopener noreferrer"
           className={styles.contactButtonSecondary}
