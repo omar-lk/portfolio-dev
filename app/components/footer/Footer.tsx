@@ -16,7 +16,7 @@ const Footer = () => {
             GitHub
           </a>
           <a
-            href="https://www.linkedin.com/in/omar-lekouch-2392ab127/"
+            href="https://www.linkedin.com/in/omar-lekouch/"
             className={styles.footerLink}
             target="_blank"
             rel="noopener noreferrer"
