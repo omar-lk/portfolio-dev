@@ -33,6 +33,33 @@
   background-color: #5a00d1;
 }
 
+.contactCtaRow {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.contactButtonSecondary {
+  display: inline-block;
+  padding: 1.5rem 3rem;
+  font-size: 1.2rem;
+  color: #6a1fff;
+  border: 2px solid #6a1fff;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.contactButtonSecondary:hover {
+  background-color: #f1eaff;
+}
+
+.contactEmailLine {
+  color: #666;
+  font-size: 0.95rem;
+}
+
 /* Responsive styles */
 @media (max-width: 768px) {
   .contactTitle {
@@ -43,7 +70,8 @@
     font-size: 0.9rem;
   }
 
-  .contactButton {
+  .contactButton,
+  .contactButtonSecondary {
     font-size: 1rem;
     padding: 1rem 2rem;
   }

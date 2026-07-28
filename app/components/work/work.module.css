@@ -1,0 +1,135 @@
+.workContainer {
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.sectionTitle {
+  font-size: 2rem;
+  color: #6a1fff;
+  margin-bottom: 0.5rem;
+  font-family: 'Work Sans', Sans-serif;
+}
+
+.sectionSubtitle {
+  color: #666;
+  margin-bottom: 2rem;
+  font-size: 1.05rem;
+}
+
+.caseStudy {
+  background: #fff;
+  margin: 1rem 0;
+  padding: 1.75rem;
+  text-align: left;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
+}
+
+.caseStudy:hover {
+  transform: translateY(-10px);
+}
+
+.caseStudyHeader {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.caseStudy h2 {
+  font-size: 1.5rem;
+  color: #6a1fff;
+  font-family: 'Work Sans', Sans-serif;
+}
+
+.meta {
+  font-style: italic;
+  color: #888;
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+}
+
+.label {
+  font-weight: 700;
+  color: #6a1fff;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 0.03em;
+  display: block;
+  margin-top: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+.caseStudy p {
+  font-size: 1rem;
+  color: #333;
+  line-height: 1.6;
+}
+
+.tagRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.tag {
+  background: #f1eaff;
+  color: #6a1fff;
+  padding: 0.25rem 0.7rem;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.demoLink {
+  display: inline-block;
+  margin-top: 1.25rem;
+  color: #6a1fff;
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 2px solid #6a1fff;
+}
+
+.demoLink:hover {
+  opacity: 0.75;
+}
+
+.privateNote {
+  display: inline-block;
+  margin-top: 1.25rem;
+  color: #888;
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+.moreWork {
+  text-align: left;
+  color: #555;
+  max-width: 720px;
+  margin: 1.5rem auto 0;
+  padding: 0 1.75rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .sectionTitle {
+    font-size: 1.5rem;
+  }
+
+  .caseStudy {
+    padding: 1.25rem;
+  }
+
+  .caseStudy h2 {
+    font-size: 1.2rem;
+  }
+
+  .caseStudy p {
+    font-size: 0.9rem;
+  }
+}

@@ -4,17 +4,26 @@ import styles from './contact.module.css';
 const Contact = () => {
   return (
     <div id="contact" className={styles.contactContainer}>
-      <h1 className={styles.contactTitle}>Have a Project?</h1>
+      <h1 className={styles.contactTitle}>Hiring for a senior AI or full-stack role?</h1>
       <p className={styles.contactDescription}>
-        Looking for a senior full stack engineer for your next project?
-        <a href="mailto:omar.lk.dev@gmail.com">
-          <button className={styles.contactButton}>Let&apos;s Talk</button>
-        </a>
+        Open to full-time positions and long-term contracts. Let&apos;s talk
+        about what your team is building.
       </p>
-      <br></br>
-      <br></br>
-      <p>
-        Email: <a href="mailto:your-email@example.com">omar.lk.dev@gmail.com</a>
+      <div className={styles.contactCtaRow}>
+        <a href="mailto:omar.lk.dev@gmail.com" className={styles.contactButton}>
+          Email me
+        </a>
+        <a
+          href="https://www.linkedin.com/in/omar-lekouch-2392ab127/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className={styles.contactButtonSecondary}
+        >
+          Connect on LinkedIn
+        </a>
+      </div>
+      <p className={styles.contactEmailLine}>
+        Email: <a href="mailto:omar.lk.dev@gmail.com">omar.lk.dev@gmail.com</a>
       </p>
     </div>
   );

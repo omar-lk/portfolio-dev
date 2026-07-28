@@ -54,6 +54,12 @@
   line-height: 1.6;
 }
 
+.caseStudyLink {
+  color: #6a1fff;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
 /* Responsive styles */
 @media (max-width: 768px) {
   .sectionTitle {
