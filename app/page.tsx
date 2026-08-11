@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from './page.module.css';
 import Hero from './components/hero/Hero';
+import Proof from './components/proof/Proof';
 import Stack from './components/stacks/Stack';
 import Navbar from './components/NavBar/NavBar';
 import Work from './components/work/Work';
@@ -13,6 +14,7 @@ export default function Home() {
     <main className={styles.main}>
       <Navbar />
       <Hero />
+      <Proof />
       <Work />
       <Stack />
       <Experiences />

@@ -4,7 +4,6 @@ import {
   SiReact,
   SiNextdotjs,
   SiTypescript,
-  SiRedux,
   SiTailwindcss,
   SiLaravel,
   SiNodedotjs,
@@ -28,24 +27,6 @@ const Stack = () => {
     <div className={styles.stackContainer}>
       <h1 className={styles.sectionTitle}>Core Technologies</h1>
 
-      <div className={styles.categoryTitle}>AI / LLM</div>
-      <div className={styles.stackRow}>
-        <Tech Icon={SiOpenai} name="OpenAI Embeddings" />
-        <Tech Icon={SiAnthropic} name="Anthropic Claude" />
-        <Tech Icon={SiSupabase} name="Supabase" />
-        <TextTag name="pgvector" />
-        <TextTag name="MCP" />
-      </div>
-
-      <div className={styles.categoryTitle}>Frontend</div>
-      <div className={styles.stackRow}>
-        <Tech Icon={SiReact} name="React.js" />
-        <Tech Icon={SiNextdotjs} name="Next.js" />
-        <Tech Icon={SiTypescript} name="TypeScript" />
-        <Tech Icon={SiRedux} name="Redux" />
-        <Tech Icon={SiTailwindcss} name="Tailwind CSS" />
-      </div>
-
       <div className={styles.categoryTitle}>Backend & APIs</div>
       <div className={styles.stackRow}>
         <Tech Icon={SiNodedotjs} name="Node.js" />
@@ -58,11 +39,28 @@ const Stack = () => {
         <Tech Icon={SiPrisma} name="Prisma" />
       </div>
 
-      <div className={styles.categoryTitle}>DevOps</div>
+      <div className={styles.categoryTitle}>Frontend</div>
+      <div className={styles.stackRow}>
+        <Tech Icon={SiReact} name="React.js" />
+        <Tech Icon={SiNextdotjs} name="Next.js" />
+        <Tech Icon={SiTypescript} name="TypeScript" />
+        <Tech Icon={SiTailwindcss} name="Tailwind CSS" />
+      </div>
+
+      <div className={styles.categoryTitle}>DevOps / Infrastructure</div>
       <div className={styles.stackRow}>
         <Tech Icon={SiDocker} name="Docker" />
         <Tech Icon={SiDigitalocean} name="DigitalOcean" />
         <Tech Icon={SiGithub} name="GitHub / CI" />
+      </div>
+
+      <div className={styles.categoryTitle}>AI / LLM</div>
+      <div className={styles.stackRow}>
+        <Tech Icon={SiOpenai} name="OpenAI Embeddings" />
+        <Tech Icon={SiAnthropic} name="Anthropic Claude" />
+        <Tech Icon={SiSupabase} name="Supabase" />
+        <TextTag name="pgvector" />
+        <TextTag name="MCP" />
       </div>
     </div>
   );

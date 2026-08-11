@@ -35,13 +35,14 @@ const Experiences = () => {
       <div className={styles.experience}>
         <h2>Full Stack Developer</h2>
         <a href="https://mobiletic.com/" target="_blank">
-          <p className={styles.company}>Mobiletice</p>
+          <p className={styles.company}>Mobiletic</p>
         </a>
         <p className={styles.location}>Geneva, Switzerland</p>
         <p className={styles.duration}>2020–2022</p>
         <p>
-          Built a large e-learning platform with SSO authentication and
-          real-time features via web sockets, using Laravel and React.
+          Built a large-scale e-learning platform with SSO authentication and
+          real-time features via web sockets, using Laravel, React, and
+          Angular.
         </p>
       </div>
 

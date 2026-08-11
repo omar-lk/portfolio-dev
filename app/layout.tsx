@@ -5,9 +5,9 @@ import './globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
-const title = 'Omar Lekouch — Senior Full Stack Engineer | AI Products'
+const title = 'Omar Lekouch — Senior Full-Stack Engineer | Billing, Payments & AI'
 const description =
-  'Senior Full Stack Engineer with 9+ years building production platforms, now specializing in AI engineering — RAG, LLM integration, and semantic search shipped in real products.'
+  'Senior Full-Stack Engineer with 9+ years of experience building production systems for billing, payments, integrations, SaaS, and AI-powered products.'
 
 export const metadata: Metadata = {
   title,

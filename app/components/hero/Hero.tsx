@@ -7,12 +7,12 @@ const Hero = () => {
     <div>
       <div className={styles.heroContainer}>
         <div className={styles.aboutContainer}>
-          <h1>Senior Full Stack Engineer building production AI-powered products</h1>
+          <h1>Senior Full-Stack Engineer — 9+ years building production systems</h1>
           <p className={styles.subhead}>
-            9+ years shipping production web platforms for European companies.
-            Recently specialized in AI engineering — RAG, LLM integration, and
-            semantic search — shipped in real products like{' '}
-            <a href="#work" className={styles.inlineLink}>Coffee AI</a>.
+            I build billing and payment platforms, complex third-party
+            integrations, and SaaS products for companies across France,
+            Switzerland, Germany, the US, and Morocco — and, more recently,
+            modern AI-powered products.
           </p>
           <p className={styles.currentLine}>
             Currently: contract &amp; billing platform for a French energy

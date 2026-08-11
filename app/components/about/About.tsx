@@ -27,19 +27,21 @@ const About: FC = () => {
           <h1>Hey there! I&apos;m Omar LEKOUCH</h1>
 
           <p>
-            I&apos;m a senior full stack engineer with 9+ years building
-            production web platforms — and over the last year I&apos;ve
-            deliberately specialized in AI engineering, shipping real products
-            with retrieval-augmented generation, LLM integration, and semantic
-            search rather than just reading about them.
+            I&apos;m a senior full-stack engineer with 9+ years shipping
+            production software — billing platforms, payment integrations,
+            and complex business systems — for companies in France,
+            Switzerland, Germany, the US, and Morocco. My client engagements
+            typically run 20 to 30 months, and I&apos;ve earned $100K+ across
+            long-term and fixed-scope contracts on Upwork alone.
           </p>
 
           <p>
-            That specialization is backed by shipped work, not a certificate:{' '}
+            Most recently, I&apos;ve extended that production experience into
+            AI engineering:{' '}
             <a href="/#work" className={styles.inlineLink}>Coffee AI</a>, a
-            live RAG-powered chatbot built on pgvector, OpenAI embeddings, and
-            Anthropic Claude, plus hands-on experience with the Model Context
-            Protocol (MCP) and modern LLM application architecture.
+            live retrieval-augmented generation product, plus hands-on work
+            integrating OpenAI and Anthropic APIs, vector search, and modern
+            AI application patterns.
           </p>
 
           <p>
