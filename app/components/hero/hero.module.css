@@ -50,12 +50,6 @@
   margin-bottom: 1.5rem;
 }
 
-.inlineLink {
-  color: #6a1fff;
-  font-weight: 600;
-  text-decoration: underline;
-}
-
 .ctaRow {
   display: flex;
   flex-wrap: wrap;

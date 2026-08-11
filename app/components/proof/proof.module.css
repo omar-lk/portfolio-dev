@@ -1,0 +1,36 @@
+.proofContainer {
+  padding: 1.25rem 1rem;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+
+.proofRow {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem 2.5rem;
+  max-width: 60rem;
+  margin: 0 auto;
+}
+
+.proofItem {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #555;
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .proofRow {
+    gap: 0.5rem 1.25rem;
+  }
+
+  .proofItem {
+    font-size: 0.8rem;
+    white-space: normal;
+  }
+}
