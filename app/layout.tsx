@@ -2,7 +2,7 @@ import { Inter } from 'next/font/google'
 import type { Metadata } from 'next'
 import type { ReactNode } from 'react'
 import './globals.css'
-
+import { Analytics } from "@vercel/analytics/next";
 const inter = Inter({ subsets: ['latin'] })
 
 const title = 'Omar Lekouch — Senior Full-Stack Engineer | Billing, Payments & AI'
@@ -42,6 +42,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         />
       </head>
       <body className={inter.className}>{children}</body>
+      <Analytics />
     </html>
   )
 }
