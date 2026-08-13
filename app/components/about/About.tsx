@@ -27,31 +27,32 @@ const About: FC = () => {
           <h1>Hey! I&apos;m Omar LEKOUCH</h1>
 
           <p>
-            I&apos;m a senior engineer who enjoys turning complex business problems
-            into reliable, production-ready software.
+            I&apos;m a senior full-stack engineer with 9+ years of experience
+            building production software across energy, fintech, SaaS, and AI.
           </p>
 
           <p>
-            Over the years, I&apos;ve worked across SaaS, energy, fintech, e-learning,
-            and AI, usually taking ownership from architecture and development through
-            integrations and deployment.
+            I like taking ownership of things from architecture to deployment,
+            especially when the problem is complex and the software actually
+            matters. A lot of my work has been around systems where things need
+            to be right  billing, payments, APIs, business workflows, data
+            synchronization, and automation.
           </p>
 
           <p>
-            Most of my work involves systems where things need to be correct and
-            dependable — billing, payments, business workflows, APIs, data
-            synchronization, and automation. More recently, I&apos;ve been applying the
-            same engineering mindset to AI products.
+            I&apos;m based in Marrakech and work remotely with teams around the
+            world. I speak English, French, and Arabic.
           </p>
 
           <p>
-            I work remotely from Marrakech, Morocco, and speak English, French, and
-            Arabic.
+            Outside of work, I&apos;m usually taking photos in the streets,
+            cooking Mediterranean food slowly, sitting in a good coffee shop,
+            or watching more TV shows than I probably should.
           </p>
 
           <p>
-            Outside of code, you&apos;ll usually find me with a camera, looking for a
-            good coffee, or exploring new places.
+            I like building serious software, but I&apos;m a big believer in
+            keeping life simple. Calm life, on purpose.
           </p>
 
           <a href="/gallery" className={styles.galleryLink}>
