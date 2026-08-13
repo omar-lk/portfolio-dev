@@ -24,21 +24,35 @@ const About: FC = () => {
         </div>
 
         <div className={styles.aboutText}>
-          <h1>Hey ! I&apos;m Omar LEKOUCH</h1>
+          <h1>Hey! I&apos;m Omar LEKOUCH</h1>
 
           <p>
-            I'm a senior engineer who enjoys turning complex business problems into reliable, production-ready software.
-
-            Over the years, I've worked across SaaS, energy, fintech, e-learning, and AI, usually taking ownership from architecture and development through integrations and deployment.
-
-            Most of my work involves systems where things need to be correct and dependable — billing, payments, business workflows, APIs, data synchronization, and automation. More recently, I've been applying the same engineering mindset to AI products.
-
-            I work remotely from Marrakech, Morocco, and speak English, French, and Arabic.
-
-            Outside of code, you'll usually find me with a camera, looking for a good coffee, or exploring new places.
+            I&apos;m a senior engineer who enjoys turning complex business problems
+            into reliable, production-ready software.
           </p>
 
+          <p>
+            Over the years, I&apos;ve worked across SaaS, energy, fintech, e-learning,
+            and AI, usually taking ownership from architecture and development through
+            integrations and deployment.
+          </p>
 
+          <p>
+            Most of my work involves systems where things need to be correct and
+            dependable — billing, payments, business workflows, APIs, data
+            synchronization, and automation. More recently, I&apos;ve been applying the
+            same engineering mindset to AI products.
+          </p>
+
+          <p>
+            I work remotely from Marrakech, Morocco, and speak English, French, and
+            Arabic.
+          </p>
+
+          <p>
+            Outside of code, you&apos;ll usually find me with a camera, looking for a
+            good coffee, or exploring new places.
+          </p>
 
           <a href="/gallery" className={styles.galleryLink}>
             My Gallery
