@@ -9,7 +9,7 @@ const Experiences = () => {
         <h2>Senior React &amp; Next.js Engineer (Freelance)</h2>
         <p className={styles.company}>European Energy-Tech Company</p>
         <p className={styles.location}>Remote</p>
-        <p className={styles.duration}>2024–Present</p>
+        <p className={styles.duration}>2024–2026</p>
         <p>
           Contract creation flows, customer dashboards, and billing automation
           for a French energy company, integrating Haulogy, Enedis, and

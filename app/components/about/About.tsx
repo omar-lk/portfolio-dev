@@ -24,43 +24,34 @@ const About: FC = () => {
         </div>
 
         <div className={styles.aboutText}>
-          <h1>Hey there! I&apos;m Omar LEKOUCH</h1>
+          <h1>Hey! I&apos;m Omar LEKOUCH</h1>
 
           <p>
-            I&apos;m a senior full-stack engineer with 9+ years shipping
-            production software — billing platforms, payment integrations,
-            and complex business systems — for companies in France,
-            Switzerland, Germany, the US, and Morocco. My client engagements
-            typically run 20 to 30 months, and I&apos;ve earned $100K+ across
-            long-term and fixed-scope contracts on Upwork alone.
+            I&apos;m a senior engineer who enjoys turning complex business problems
+            into reliable, production-ready software.
           </p>
 
           <p>
-            Most recently, I&apos;ve extended that production experience into
-            AI engineering:{' '}
-            <a href="/#work" className={styles.inlineLink}>Coffee AI</a>, a
-            live retrieval-augmented generation product, plus hands-on work
-            integrating OpenAI and Anthropic APIs, vector search, and modern
-            AI application patterns.
+            Over the years, I&apos;ve worked across SaaS, energy, fintech, e-learning,
+            and AI, usually taking ownership from architecture and development through
+            integrations and deployment.
           </p>
 
           <p>
-            On the full-stack side, my most recent work is a production
-            platform for a French energy company — contract flows, billing
-            automation, and integrations with Haulogy, Enedis, and Pennylane.
-            Before that: an e-learning platform for a Swiss company
-            (Mobiletice), and business systems for clients in Morocco.
+            Most of my work involves systems where things need to be correct and
+            dependable — billing, payments, business workflows, APIs, data
+            synchronization, and automation. More recently, I&apos;ve been applying the
+            same engineering mindset to AI products.
           </p>
 
           <p>
-            Based in Marrakech, Morocco. Fluent in French and English, and
-            I&apos;ve worked remotely with teams across Morocco, Switzerland,
-            France, and the US since 2016.
+            I work remotely from Marrakech, Morocco, and speak English, French, and
+            Arabic.
           </p>
 
           <p>
-            Outside of work I&apos;m into photography and the slow life
-            Marrakech offers — a few shots are in my gallery below.
+            Outside of code, you&apos;ll usually find me with a camera, looking for a
+            good coffee, or exploring new places.
           </p>
 
           <a href="/gallery" className={styles.galleryLink}>
