@@ -6,14 +6,16 @@ const Experiences = () => {
     <div className={styles.experiencesContainer}>
       <h1 className={styles.sectionTitle}>Experiences</h1>
       <div className={styles.experience}>
-        <h2>Senior React &amp; Next.js Engineer (Freelance)</h2>
+        <h2>Full-Stack Engineer (Freelance)</h2>
         <p className={styles.company}>European Energy-Tech Company</p>
         <p className={styles.location}>Remote</p>
         <p className={styles.duration}>2024–2026</p>
         <p>
-          Contract creation flows, customer dashboards, and billing automation
-          for a French energy company, integrating Haulogy, Enedis, and
-          Pennylane. Full case study{' '}
+          Built production contract, customer, energy-data, billing, and
+          payment workflows for an energy-management platform, integrating
+          Haulogy, Enedis, Pennylane, DocuSign, and GoCardless. Also developed
+          Ovadiator, an internal invoice and payment-data platform for the
+          company&apos;s accounting team. Full case studies{' '}
           <a href="#work" className={styles.caseStudyLink}>above</a>.
         </p>
       </div>

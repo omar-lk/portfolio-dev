@@ -12,29 +12,36 @@ const Work = () => {
 
       <div className={styles.caseStudy}>
         <div className={styles.caseStudyHeader}>
-          <h2>Contract &amp; billing platform for a French energy company</h2>
+          <h2>Energy management, contracts &amp; billing platform</h2>
         </div>
-        <p className={styles.meta}>Freelance · 2024–2026 · Remote</p>
-
-        <span className={styles.label}>Problem</span>
-        <p>
-          Contract creation, billing, and reconciliation were split across
-          manual steps and disconnected external systems — energy delivery
-          data arrived as XML files that had to be validated before it could
-          be turned into an accurate invoice.
+        <p className={styles.meta}>
+          European energy-tech company · Full-Stack Engineer · 2024–2026 ·
+          Remote
         </p>
 
         <span className={styles.label}>What I built</span>
         <p>
-          Built the core contract creation flows and customer-facing
-          dashboards, then built the billing pipeline end to end: ingesting
-          and validating XML delivery data, running the business calculations
-          that turn usage data into charges, and generating invoices.
-          Integrated Haulogy for energy contract data, Enedis for electricity
-          delivery point data, Pennylane for accounting synchronization, and
-          DocuSign for contract signature — with a GoCardless payment
-          integration in progress. Deployed and operated the platform in
-          production.
+          Worked as a full-stack engineer on a production energy-management
+          platform serving customers, partners, and internal operations teams.
+          Developed contract creation and review workflows, role-based access
+          controls, and customer dashboards for tracking contracts, invoices,
+          electricity consumption, and energy production.
+        </p>
+        <p>
+          On the backend, built and maintained data pipelines that ingest and
+          validate energy-delivery XML files, apply tariff and consumption
+          calculations, and prepare billing data for accounting. Integrated
+          Haulogy for customer and contract synchronization, Enedis for
+          delivery-point and metering data, Pennylane for invoice and
+          accounting workflows, and DocuSign for electronic signatures and
+          signed-contract archiving. Also contributed to the GoCardless
+          payment workflow, including mandates, payment tracking, webhooks,
+          and reconciliation.
+        </p>
+        <p>
+          The platform was containerized with Docker, deployed on DigitalOcean,
+          and monitored in production with scheduled jobs, structured logging,
+          and Sentry.
         </p>
 
         <span className={styles.label}>Integrations</span>
@@ -43,17 +50,53 @@ const Work = () => {
           <span className={styles.tag}>Enedis</span>
           <span className={styles.tag}>Pennylane</span>
           <span className={styles.tag}>DocuSign</span>
-          <span className={styles.tag}>GoCardless (in progress)</span>
+          <span className={styles.tag}>GoCardless</span>
         </div>
 
         <div className={styles.tagRow}>
-          <span className={styles.tag}>Next.js</span>
+          <span className={styles.tag}>Next.js 14</span>
           <span className={styles.tag}>React</span>
+          <span className={styles.tag}>TypeScript</span>
           <span className={styles.tag}>Node.js</span>
           <span className={styles.tag}>Prisma</span>
           <span className={styles.tag}>PostgreSQL</span>
           <span className={styles.tag}>Docker</span>
           <span className={styles.tag}>DigitalOcean</span>
+          <span className={styles.tag}>Sentry</span>
+        </div>
+
+        <span className={styles.privateNote}>Internal platform — not publicly accessible</span>
+      </div>
+
+      <div className={styles.caseStudy}>
+        <div className={styles.caseStudyHeader}>
+          <h2>Ovadiator</h2>
+        </div>
+        <p className={styles.meta}>
+          European energy-tech company · Internal accounting platform
+        </p>
+
+        <span className={styles.label}>What I built</span>
+        <p>
+          Developed an internal platform that helps an accounting department
+          manage invoices and payment data more efficiently. Ovadiator
+          automates XML invoice processing, matches customers with their
+          GoCardless payment mandates, centralizes client records, and exports
+          validated data to CSV.
+        </p>
+        <p>
+          By reducing repetitive manual work and data-entry errors, the
+          platform streamlines the accounting workflow and makes payment
+          preparation faster and more reliable.
+        </p>
+
+        <div className={styles.tagRow}>
+          <span className={styles.tag}>React</span>
+          <span className={styles.tag}>TypeScript</span>
+          <span className={styles.tag}>Tailwind CSS</span>
+          <span className={styles.tag}>Supabase</span>
+          <span className={styles.tag}>GoCardless</span>
+          <span className={styles.tag}>XML</span>
         </div>
 
         <span className={styles.privateNote}>Internal platform — not publicly accessible</span>
