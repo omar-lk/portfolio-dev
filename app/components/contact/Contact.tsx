@@ -1,18 +1,15 @@
 import React from 'react';
+import type { SiteDictionary } from '../../i18n';
 import styles from './contact.module.css';
 
-const Contact = () => {
+const Contact = ({ copy }: { copy: SiteDictionary['contact'] }) => {
   return (
     <div id="contact" className={styles.contactContainer}>
-      <h1 className={styles.contactTitle}>Hiring for a senior engineer who ships production systems?</h1>
-      <p className={styles.contactDescription}>
-        Billing and payment platforms, complex integrations, SaaS products,
-        and AI-powered systems. Open to full-time positions and long-term
-        contracts — let&apos;s talk about what your team is building.
-      </p>
+      <h1 className={styles.contactTitle}>{copy.title}</h1>
+      <p className={styles.contactDescription}>{copy.description}</p>
       <div className={styles.contactCtaRow}>
         <a href="mailto:omar.lekouch@gmail.com" className={styles.contactButton}>
-          Email me
+          {copy.emailMe}
         </a>
         <a
           href="https://www.linkedin.com/in/omar-lekouch/"
@@ -20,11 +17,11 @@ const Contact = () => {
           rel="noopener noreferrer"
           className={styles.contactButtonSecondary}
         >
-          Connect on LinkedIn
+          {copy.linkedin}
         </a>
       </div>
       <p className={styles.contactEmailLine}>
-        Email: <a href="mailto:omar.lekouch@gmail.com">omar.lekouch@gmail.com</a>
+        {copy.emailLabel}: <a href="mailto:omar.lekouch@gmail.com">omar.lekouch@gmail.com</a>
       </p>
     </div>
   );
