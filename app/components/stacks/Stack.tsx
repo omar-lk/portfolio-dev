@@ -1,4 +1,5 @@
 import React from 'react';
+import type { SiteDictionary } from '../../i18n';
 import styles from './stack.module.css';
 import {
   SiReact,
@@ -22,24 +23,24 @@ type TechProps = {
   name: string;
 };
 
-const Stack = () => {
+const Stack = ({ copy }: { copy: SiteDictionary['stack'] }) => {
   return (
     <div className={styles.stackContainer}>
-      <h1 className={styles.sectionTitle}>Core Technologies</h1>
+      <h1 className={styles.sectionTitle}>{copy.title}</h1>
 
-      <div className={styles.categoryTitle}>Backend & APIs</div>
+      <div className={styles.categoryTitle}>{copy.backend}</div>
       <div className={styles.stackRow}>
         <Tech Icon={SiNodedotjs} name="Node.js" />
         <Tech Icon={SiLaravel} name="Laravel" />
       </div>
 
-      <div className={styles.categoryTitle}>Database</div>
+      <div className={styles.categoryTitle}>{copy.database}</div>
       <div className={styles.stackRow}>
         <Tech Icon={SiPostgresql} name="PostgreSQL" />
         <Tech Icon={SiPrisma} name="Prisma" />
       </div>
 
-      <div className={styles.categoryTitle}>Frontend</div>
+      <div className={styles.categoryTitle}>{copy.frontend}</div>
       <div className={styles.stackRow}>
         <Tech Icon={SiReact} name="React.js" />
         <Tech Icon={SiNextdotjs} name="Next.js" />
@@ -47,14 +48,14 @@ const Stack = () => {
         <Tech Icon={SiTailwindcss} name="Tailwind CSS" />
       </div>
 
-      <div className={styles.categoryTitle}>DevOps / Infrastructure</div>
+      <div className={styles.categoryTitle}>{copy.devops}</div>
       <div className={styles.stackRow}>
         <Tech Icon={SiDocker} name="Docker" />
         <Tech Icon={SiDigitalocean} name="DigitalOcean" />
         <Tech Icon={SiGithub} name="GitHub / CI" />
       </div>
 
-      <div className={styles.categoryTitle}>AI / LLM</div>
+      <div className={styles.categoryTitle}>{copy.ai}</div>
       <div className={styles.stackRow}>
         <Tech Icon={SiOpenai} name="OpenAI Embeddings" />
         <Tech Icon={SiAnthropic} name="Anthropic Claude" />

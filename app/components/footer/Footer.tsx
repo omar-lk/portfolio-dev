@@ -1,7 +1,8 @@
 import React from 'react';
+import type { SiteDictionary } from '../../i18n';
 import styles from './footer.module.css';
 
-const Footer = () => {
+const Footer = ({ copy }: { copy: SiteDictionary['footer'] }) => {
   return (
     <div className={styles.footerContainer}>
       <div className={styles.footerPowered}>© 2026 Omar Lekouch</div>
@@ -24,7 +25,7 @@ const Footer = () => {
             LinkedIn
           </a>
           <a href="/resume.pdf" className={styles.footerLink} target="_blank" rel="noopener noreferrer">
-            Resume
+            {copy.resume}
           </a>
         </div>
       </div>
