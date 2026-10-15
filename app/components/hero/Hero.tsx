@@ -1,13 +1,14 @@
 import React from 'react';
 import Image from 'next/image';
-import type { SiteDictionary } from '../../i18n';
+import { resumePath, type Locale, type SiteDictionary } from '../../i18n';
 import styles from './hero.module.css';
 
 type HeroProps = {
+  locale: Locale;
   copy: SiteDictionary['hero'];
 };
 
-const Hero = ({ copy }: HeroProps) => {
+const Hero = ({ locale, copy }: HeroProps) => {
   return (
     <div>
       <div className={styles.heroContainer}>
@@ -19,7 +20,11 @@ const Hero = ({ copy }: HeroProps) => {
           <div className={styles.ctaRow}>
             <a href="#work" className={styles.ctaPrimary}>{copy.viewWork}</a>
             <a href="#contact" className={styles.ctaSecondary}>{copy.getInTouch}</a>
-            <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className={styles.ctaSecondary}>
+            <a
+              href={resumePath(locale)}
+              download
+              className={styles.ctaSecondary}
+            >
               {copy.resume}
             </a>
           </div>

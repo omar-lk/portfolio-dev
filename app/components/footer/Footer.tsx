@@ -1,8 +1,13 @@
 import React from 'react';
-import type { SiteDictionary } from '../../i18n';
+import { resumePath, type Locale, type SiteDictionary } from '../../i18n';
 import styles from './footer.module.css';
 
-const Footer = ({ copy }: { copy: SiteDictionary['footer'] }) => {
+type FooterProps = {
+  locale: Locale;
+  copy: SiteDictionary['footer'];
+};
+
+const Footer = ({ locale, copy }: FooterProps) => {
   return (
     <div className={styles.footerContainer}>
       <div className={styles.footerPowered}>© 2026 Omar Lekouch</div>
@@ -24,7 +29,7 @@ const Footer = ({ copy }: { copy: SiteDictionary['footer'] }) => {
           >
             LinkedIn
           </a>
-          <a href="/resume.pdf" className={styles.footerLink} target="_blank" rel="noopener noreferrer">
+          <a href={resumePath(locale)} className={styles.footerLink} download>
             {copy.resume}
           </a>
         </div>

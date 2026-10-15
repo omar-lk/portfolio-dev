@@ -19,13 +19,13 @@ export default function Home({ locale, dictionary }: HomeProps) {
   return (
     <main className={styles.main}>
       <Navbar locale={locale} currentPath="/" copy={dictionary.nav} />
-      <Hero copy={dictionary.hero} />
+      <Hero locale={locale} copy={dictionary.hero} />
       <Proof points={dictionary.proof} />
       <Work copy={dictionary.work} />
       <Stack copy={dictionary.stack} />
       <Experiences copy={dictionary.experiences} />
       <Contact copy={dictionary.contact} />
-      <Footer copy={dictionary.footer} />
+      <Footer locale={locale} copy={dictionary.footer} />
     </main>
   );
 }
