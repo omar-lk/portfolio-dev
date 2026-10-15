@@ -41,7 +41,7 @@ const About = ({ locale, dictionary }: AboutProps) => {
         </div>
       </div>
 
-      <Footer copy={dictionary.footer} />
+      <Footer locale={locale} copy={dictionary.footer} />
     </div>
   );
 };

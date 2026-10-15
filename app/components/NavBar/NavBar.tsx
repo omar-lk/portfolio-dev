@@ -5,6 +5,7 @@ import Link from 'next/link'
 import {
   alternateLocale,
   localizedPath,
+  resumePath,
   type Locale,
   type PagePath,
 } from '../../i18n'
@@ -54,9 +55,9 @@ const Navbar = ({ locale, currentPath, copy }: NavbarProps) => {
         <Link href={localizedPath(locale, '/about')} className={styles.navbarItem} onClick={closeMenu}>
           {copy.about}
         </Link>
-        <Link href="/resume.pdf" target="_blank" className={styles.navbarItem}>
+        <a href={resumePath(locale)} download className={styles.navbarItem} onClick={closeMenu}>
           {copy.resume}
-        </Link>
+        </a>
         <Link href={`${localizedPath(locale, '/')}#contact`} className={styles.navbarItem} onClick={closeMenu}>
           {copy.contact}
         </Link>

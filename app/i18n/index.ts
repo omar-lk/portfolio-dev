@@ -16,4 +16,8 @@ export function alternateLocale(locale: Locale): Locale {
   return locale === 'en' ? 'fr' : 'en';
 }
 
+export function resumePath(locale: Locale): string {
+  return locale === 'fr' ? '/resume-fr.pdf' : '/resume.pdf';
+}
+
 export type { Locale, PagePath, SiteDictionary } from './types';

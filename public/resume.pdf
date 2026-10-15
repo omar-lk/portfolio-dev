@@ -1,74 +1,946 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 4 0 obj
 <<
-/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 8180
 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54.18898 777.0394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL (OMAR LEKOUCH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 762.0394 cm
+q
+BT 1 0 0 1 0 3.2 Tm 13 TL /F1 9.8 Tf .427451 .156863 .85098 rg (Senior Full Stack Engineer  ) Tj (\267) Tj (  Building production AI-powered products \(RAG, LLM\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 747.0394 cm
+q
+BT 1 0 0 1 0 2.6 Tm 11 TL /F1 8.4 Tf .333333 .333333 .333333 rg (omar.lekouch@gmail.com  ) Tj ( ) Tj (|) Tj ( ) Tj (  https://omarlekouch.com/  ) Tj ( ) Tj (|) Tj ( ) Tj (  linkedin.com/in/omar-lekouch  ) Tj ( ) Tj (|) Tj ( ) Tj (  Marrakech, Morocco) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 743.0394 cm
+Q
+q
+1 0 0 1 48.18898 742.0394 cm
+q
+.427451 .156863 .85098 rg
+n 0 1 498.8976 -1 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 737.0394 cm
+Q
+q
+1 0 0 1 54.18898 717.0394 cm
+q
+.427451 .156863 .85098 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 668.4394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 36.9 Tm /F1 8.7 Tf 11.4 TL (Senior Full Stack Engineer with 9+ years shipping production web platforms for European and US companies. Recently) Tj T* (specialized in AI engineering \227 RAG, LLM integration, and semantic search \227 shipped in real products like Coffee AI. Strong) Tj T* (across TypeScript, React, Next.js, and Node.js, focused on reliable software that works in production. Fluent in French and) Tj T* (English. Open to full-time roles and long-term contracts, available immediately.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 648.4394 cm
+q
+.427451 .156863 .85098 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (TECHNICAL SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 633.2394 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12.2 TL /F2 8.7 Tf .066667 .066667 .066667 rg (AI / LLM) Tj /F1 8.7 Tf ( ) Tj ( ) Tj (RAG, semantic search, embeddings \(OpenAI\), Anthropic Claude API, prompt engineering, MCP, pgvector) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 619.5394 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12.2 TL /F2 8.7 Tf .066667 .066667 .066667 rg (Frontend) Tj /F1 8.7 Tf ( ) Tj ( ) Tj (React, Next.js \(App Router\), TypeScript, Redux, Tailwind CSS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 605.8394 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12.2 TL /F2 8.7 Tf .066667 .066667 .066667 rg (Backend / APIs) Tj /F1 8.7 Tf ( ) Tj ( ) Tj (Node.js, REST API design, Laravel, Prisma) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 592.1394 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12.2 TL /F2 8.7 Tf .066667 .066667 .066667 rg (Database) Tj /F1 8.7 Tf ( ) Tj ( ) Tj (PostgreSQL, pgvector, Supabase, MySQL, MongoDB) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 578.4394 cm
+q
+BT 1 0 0 1 0 3.5 Tm 12.2 TL /F2 8.7 Tf .066667 .066667 .066667 rg (DevOps) Tj /F1 8.7 Tf ( ) Tj ( ) Tj (Docker, Vercel, DigitalOcean, GitHub CI/CD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 558.4394 cm
+q
+.427451 .156863 .85098 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (SELECTED WORK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 541.6394 cm
+q
+BT 1 0 0 1 0 2.4 Tm 11.8 TL /F2 9.4 Tf .066667 .066667 .066667 rg (Contract & billing platform \227 French energy company) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 531.2394 cm
+q
+.541176 .541176 .541176 rg
+BT 1 0 0 1 0 2.4 Tm /F1 8 Tf 10.4 TL (Freelance \267 2024\226Present \267 React, Next.js, Node.js, Prisma, PostgreSQL, Docker) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 495.6394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 9 25.1 Tm /F1 8.5 Tf 11.2 TL (Built the core contract creation flows and customer-facing dashboards, then automated billing by integrating three external) Tj T* (systems: Haulogy \(energy contract data\), Enedis \(electricity delivery point retrieval\), and Pennylane \(accounting) Tj T* (synchronization\) \227 replacing manual data entry between them with direct API integrations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 475.6394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.4 Tm /F2 9.4 Tf 11.8 TL (Coffee AI \227 RAG-powered coffee shop finder) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 465.2394 cm
+q
+.541176 .541176 .541176 rg
+BT 1 0 0 1 0 2.4 Tm /F1 8 Tf 10.4 TL (Live product \267 Next.js, Supabase, pgvector, OpenAI, Anthropic Claude) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 407.2394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 9 47.5 Tm /F1 8.5 Tf 11.2 TL (A conversational search tool: users ask in plain language \(\223a quiet spot with good wifi in Gueliz\224\) and get back relevant coffee) Tj T* (shops, not keyword matches. Coffee shop data is embedded with OpenAI and stored in Postgres via pgvector; each query is) Tj T* (embedded and matched against that index with semantic similarity search, and the retrieved results are passed to Anthropic\222s) Tj T* (Claude to generate a direct, conversational answer \227 a full retrieval-augmented generation pipeline, not a thin wrapper around) Tj T* (a single API call.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 390.4394 cm
+q
+.427451 .156863 .85098 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 373.6394 cm
+q
+BT 1 0 0 1 0 2.4 Tm 11.8 TL /F2 9.4 Tf .066667 .066667 .066667 rg (Senior React & Next.js Engineer \227 Freelance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 363.2394 cm
+q
+.541176 .541176 .541176 rg
+BT 1 0 0 1 0 2.4 Tm /F1 8 Tf 10.4 TL (European Energy-Tech Company \267 Remote \267 2024\2262026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 338.8394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 9 13.9 Tm /F1 8.5 Tf 11.2 TL (Contract creation flows, customer dashboards, and billing automation for a French energy company, integrating Haulogy,) Tj T* (Enedis, and Pennylane.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 322.0394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.4 Tm /F2 9.4 Tf 11.8 TL (React Developer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 311.6394 cm
+q
+.541176 .541176 .541176 rg
+BT 1 0 0 1 0 2.4 Tm /F1 8 Tf 10.4 TL (Interlincx \267 Los Angeles, CA \267 2021\2262024) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 287.2394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 9 13.9 Tm /F1 8.5 Tf 11.2 TL (Built form builders and client templates for content editors producing monetizable articles; worked directly with the engineering) Tj T* (team to extend the Netlify CMS.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 270.4394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.4 Tm /F2 9.4 Tf 11.8 TL (Full Stack Developer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 260.0394 cm
+q
+.541176 .541176 .541176 rg
+BT 1 0 0 1 0 2.4 Tm /F1 8 Tf 10.4 TL (Mobiletice \267 Geneva, Switzerland \267 2020\2262022) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 246.8394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 9 2.7 Tm /F1 8.5 Tf 11.2 TL (Built a large e-learning platform with SSO authentication and real-time features via web sockets, using Laravel and React.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 230.0394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.4 Tm /F2 9.4 Tf 11.8 TL (Full Stack Developer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 219.6394 cm
+q
+.541176 .541176 .541176 rg
+BT 1 0 0 1 0 2.4 Tm /F1 8 Tf 10.4 TL (Sagatech \267 Meknes, Morocco \267 2019\2262020) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 195.2394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 9 13.9 Tm /F1 8.5 Tf 11.2 TL (Built payment gateway and barcode scanner integrations on a SQL Server backend, then rebuilt the product as a cloud version) Tj T* (using Laravel, React/Node, and MySQL.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 178.4394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.4 Tm /F2 9.4 Tf 11.8 TL (Full Stack Developer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 168.0394 cm
+q
+.541176 .541176 .541176 rg
+BT 1 0 0 1 0 2.4 Tm /F1 8 Tf 10.4 TL (IN4 \267 Meknes, Morocco \267 2018\2262019) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 154.8394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 9 2.7 Tm /F1 8.5 Tf 11.2 TL (Built multiple e-commerce websites, each with client-specific requirements, using Laravel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 134.8394 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F2 9 Tf .427451 .156863 .85098 rg (EDUCATION & LANGUAGES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 120.4394 cm
+q
+BT 1 0 0 1 0 2.7 Tm 11.4 TL /F2 8.7 Tf .066667 .066667 .066667 rg (Engineer's Degree \227 Computer Science) Tj /F1 8.7 Tf (, Sup MTI, Morocco \(2017\2262020\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 109.0394 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 2.7 Tm /F1 8.7 Tf 11.4 TL (Arabic \(Native\) \267 French \(Fluent\) \267 English \(Fluent\)) Tj T* ET
+Q
+Q
+ 
+
+endstream
 endobj
 5 0 obj
 <<
-/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+/F1 6 0 R
+/F2 7 0 R
 >>
 endobj
 6 0 obj
 <<
-/Author (Omar Lekouch) /CreationDate (D:20260728163451+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260728163451+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Omar Lekouch - Resume) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Count 1 /Kids [ 4 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3025
+/Author (Omar Lekouch)
+/CreationDate (D\07220260728163451\05300\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260728163451\05300\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (Omar Lekouch \055 Resume)
+/Trapped (\057False)
+>>
+endobj
+9 0 obj
+<<
+/Length 8742
 >>
 stream
-Gau0EgN):E&q0LUjO5_EMe+1%1G;C2g.aE<N1jm-,Q(Gq!]8K19+l,'p>bmXPpF04MqlS0&I*keR9=h+jN3QZ%K+rVY8\%dT@)<sRr!jl9<qc&Me3V@btc!Cf_Lg"Q=]f:r>p*n?)uB>[r<G'[Mg1aFQr=r>+K%q]/5.o".4&KBs7oa@0<q'bJ>c)7\?hJ%mRe'fj?T5Krt?7hkr#LS3>%#b;V"i^i&_K*(f&QYoTn,FB`UO/A'a&Fdck6g't-Z<`GR2d#/TdaF'VWWGq<?'X#)F8k#P(WSKS*Y'Gd3auk14Ke&$\[)h%PMaA>@:ZLY)._-rk:$Aa'41M6<A9)tiY!POYmW/t#<_#Yj(D6=".>Xq%J%g9kOJ4ugbJ1M%EqAa"+?\P%US*DiJ,/!<Ime\1.IPk[j\"DCEW!rg^),X!C^%"jk(RG[!I5bumeW2Q083<`?FoG`>t-;ah5JI329RT*^S'+-0A&e6ZO&i&c#*ENea%E@FD@#&[/B$]TbfP1eMX!#C--\EI#m:Bh_3^DVgWH+TCdDQJ_dHho-),3''ep*XA(odU5&[EqEB'`!774Y[b7q^`[h4rWt!g<*F:4g#;9@]s'N-u67%kt]f:I?3tH@,YqOO:Uk49hQU[C#@OXVViIX6h$1Ng@kfLc;>Ns9aos[AS[3V'@-[bA%9$cNa,ak-61O"l.V4nCgI4A;jYgp<k4->(";pWE%Tn$9o\b=FPVPN^*"mp[2P(qA).4+=_Lf?h%Wq8]h.S:>BD.>SKPo$?@GUm%3>fj1KoiGU=?:>7$s&hg/QG?86G'm*0I7[#;9HODaR'&kM&!=G!fT4j+=nKPVYQOgf#:2_sNC?J^YjK/kX=_#DAOpN'9;LW*o`@]7nn"OYnDX%S.TM"Y%9!EHfsM8[6Mo[E!K('Vdbe4C^skCFdnenG2B%%W)@m&dRXQ/N-IW=1RiqUk\j0J@VIMW@24XfUcf:R25gL;m7@W-9HL6g<1nYmuVbT"7b69g/VLID%_>*G(SH`N6#+T\lckk@:d((%G3MSm1mUHu"35!'DX,V5M86(K&mT]'g7fNL.:1]H_(SX+o2.@T!;;=VY&B4/\id[)=`CGI0K*UHHVcC%VBNr/[`q:C+KWpPACjkkHFCfaSNi"VHJJL$2<Zm?X:gt[J3o)2;$,l.\[/5kp+#B""Oc$\?j=;D/6qOsfEr,ZD#H'UWZWQ)nS8Iq#Q_8onr-a8Y])*e&N&]n\3drXmk7P!(^]2YqUe^+0b"IG<m@l>bl,$(XAoelNc\CTt,%r'VUo'p/BK-s%e">7$T.1[qfiI;'$CTX`DVI]FFP<=p?acT4[?\VX2.%Zq.&J;j9ig26G15;X:^c^F&4DRdTCi`*e(us&*AI"AZ=m:WRX*N]G4=6PdZEPa'`#>tXmSCE=52=jmP8`=TPN^0CD&_eAdILfBR,-:T1abmMYpffN>h(N,knkhqZ;7q&[!moOs!#cU+,;!k/ijN3(f1o=[g^>n!5$PF-308J&?uB]6CgmYAim!PnJDXgn9klq:c2pj:V8)@_$irKbRWc+B!F..VQ>Yl30_0]HhD[EaaorXYh:-HYqh;:(.GG4Ai!72ZfVTiOr2pXAdh+fAe`IA\;@noHZ<bKJE2NR+jJc07]!X?Fh`c,2]#q+[BS<4Lr9XE$=frW*&9%,%2&dWD]Gj]B&>VaL`cO=NOB+]h&jDn<Du\oI+>r9Mc+o1kaFDKiR*(MJO"m3QX^p&<"leMijB'RZ/)%'`7Nq0`,5uTqZ@!>R<e'IAK"b\\e(kaJ2eJo,Mu:<E,4V?F@PdS\n^<d6D=4q7bG.\Tg#PkGjV2>]"QH]WL+*X0Y$Gr%&Ms$],41V4dpf!T6%7k6@nuor:6(XH(KTCDq#[p)BE6#8Q6+(Z*@E:><(H@g8P!;iP0$KiDf!E\SSJ$n_GA_'j()qD8PT3aE)Z1U@Y7H6*C#5YtP_"&4O="_4c-hL)pS9COT,!/6CQOU?WqOhiqIAWZg^+%><^aQm-69Q9D0o)S*[;$cj?Z4+D*!rFV%iW:7[E.Q%AXR1msDd^V(A/K3H04m"k@6=qNRm$@n'\&iN9h,U!dnisUd*mQ?qD6Wnjs&k&L?:7>O?A/sARIL7e>t9o]g43K:diQWj%/QaoUhW#m<E_1**'5#*n*,]l/kpML-<\g&CBO;>a2E@S-faLR`B7$jjZHAa?#k`d)aT'7o?KVPWiC#'teDWp1/U%_R,g0V[eK93IJCNlX^qTe/uT@.([&"oe"7@Ga^JT#F1]Y?@?bCk!FDo5?6(s3'VFuqRe.3J:a_c4q^tK,FeCX.fEN.N3Q"_qs&Vfd$R3-Re[<gKA@CT9"`f8(WO_c*]h"&&*UWl^g^DN\&gWPi+bEqPjNhQOMJ$S7\r+qEqLQ6nU0:]+XO[peO14-1'J-X6&AE74:(L:I8C#@2[nkf%Gu0GfUM>&gn[gN/8(@2F(o_B;r:esBm;Y?!$J3:p(mBHJG.:UhLHfJdl=46\;X7Tf\8_J>bDom&-5^Gju;4VP>ra)OX%uIi$EKigM+^eOn9qB$0ZjBnLm[daP?8ML?\&#Vq4TuB_i"V:^oq1-]7%KD@+V2$8Kh=TF!+g5)RNcAerDrqCZ(4<KPUE*1'iX&/fZkR/A_Ye<*@O4:CU2jaG4gP!:iQ0Oa]s9Jg)McgJ:B(3YPRQ7!)MG9=cSZlBK?d']+J,"-W8O?S'a.gY^3VG]^Ol%'D9OGcORkG@f%L2$b?!bXsTJp?e$.OD8<^a;9m5%@<(>*M5DWIQ/(q]elANfG9pdlSngN3?D<_l%/*A+qL`L3J+LV$*0B^"?smJH-#OfSb"unP]'^&*]Nc9ZK3E%mH9r\X!)UU%'i-*g9*ZF>mFMT!k)_]i*h'ne?4grcpJjNN]OYD'st:MpI$6;2+%:gM&c7+a8!qh0R!'@\K_"R/h.U*iHBLAgPW5e22<QJ+!&dW;;I1/na3-E7BDoDF#gR*okt6rXU`&pUNe0""!)#nm1ViS?\3&o]hZ>ra!c2%OsZfTE"8+rlAY3q*2u.C&.~>endstream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 54.18898 777.0394 cm
+q
+0.066667 0.066667 0.066667 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 20 Tf
+22 TL
+(OMAR LEKOUCH) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 762.0394 cm
+q
+BT
+1 0 0 1 0 3.2 Tm
+13 TL
+/F1 9.8 Tf
+0.427451 0.156863 0.85098 rg
+(Senior Full Stack Engineer  ) Tj
+(\267) Tj
+(  Building production AI\055powered products \050RAG\054 LLM\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 747.0394 cm
+q
+BT
+1 0 0 1 0 2.6 Tm
+11 TL
+/F1 8.4 Tf
+0.333333 0.333333 0.333333 rg
+(omar\056lekouch\100gmail\056com  ) Tj
+( ) Tj
+(\174) Tj
+( ) Tj
+(  https\072\057\057omarlekouch\056com\057  ) Tj
+( ) Tj
+(\174) Tj
+( ) Tj
+(  linkedin\056com\057in\057omar\055lekouch  ) Tj
+( ) Tj
+(\174) Tj
+( ) Tj
+(  Marrakech\054 Morocco) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 743.0394 cm
+Q
+q
+1 0 0 1 48.18898 742.0394 cm
+q
+0.427451 0.156863 0.85098 rg
+n
+0 1 498.8976 -1 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 0 2 Tm
+T*
+ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 737.0394 cm
+Q
+q
+1 0 0 1 54.18898 717.0394 cm
+q
+0.427451 0.156863 0.85098 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 9 Tf
+12 TL
+(SUMMARY) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 668.4394 cm
+q
+0.066667 0.066667 0.066667 rg
+BT
+1 0 0 1 0 36.9 Tm
+/F1 8.7 Tf
+11.4 TL
+(Senior Full Stack Engineer with 9\053 years shipping production web platforms for European and US companies\056 Recently) Tj
+T*
+(specialized in AI engineering \227 RAG\054 LLM integration\054 and semantic search \227 shipped in real products like Coffee AI\056 Strong) Tj
+T*
+(across TypeScript\054 React\054 Next\056js\054 and Node\056js\054 focused on reliable software that works in production\056 Fluent in French and) Tj
+T*
+(English\056 Open to full\055time roles and long\055term contracts\054 available immediately\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 648.4394 cm
+q
+0.427451 0.156863 0.85098 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 9 Tf
+12 TL
+(TECHNICAL SKILLS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 633.2394 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+12.2 TL
+/F2 8.7 Tf
+0.066667 0.066667 0.066667 rg
+(AI \057 LLM) Tj
+/F1 8.7 Tf
+( ) Tj
+( ) Tj
+(RAG\054 semantic search\054 embeddings \050OpenAI\051\054 Anthropic Claude API\054 prompt engineering\054 MCP\054 pgvector) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 619.5394 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+12.2 TL
+/F2 8.7 Tf
+0.066667 0.066667 0.066667 rg
+(Frontend) Tj
+/F1 8.7 Tf
+( ) Tj
+( ) Tj
+(React\054 Next\056js \050App Router\051\054 TypeScript\054 Redux\054 Tailwind CSS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 605.8394 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+12.2 TL
+/F2 8.7 Tf
+0.066667 0.066667 0.066667 rg
+(Backend \057 APIs) Tj
+/F1 8.7 Tf
+( ) Tj
+( ) Tj
+(Node\056js\054 REST API design\054 Laravel\054 Prisma) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 592.1394 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+12.2 TL
+/F2 8.7 Tf
+0.066667 0.066667 0.066667 rg
+(Database) Tj
+/F1 8.7 Tf
+( ) Tj
+( ) Tj
+(PostgreSQL\054 pgvector\054 Supabase\054 MySQL\054 MongoDB) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 578.4394 cm
+q
+BT
+1 0 0 1 0 3.5 Tm
+12.2 TL
+/F2 8.7 Tf
+0.066667 0.066667 0.066667 rg
+(DevOps) Tj
+/F1 8.7 Tf
+( ) Tj
+( ) Tj
+(Docker\054 Vercel\054 DigitalOcean\054 GitHub CI\057CD) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 558.4394 cm
+q
+0.427451 0.156863 0.85098 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 9 Tf
+12 TL
+(SELECTED WORK) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 541.6394 cm
+q
+BT
+1 0 0 1 0 2.4 Tm
+11.8 TL
+/F2 9.4 Tf
+0.066667 0.066667 0.066667 rg
+(Contract \046 billing platform \227 French energy company) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 531.2394 cm
+q
+0.541176 0.541176 0.541176 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 8 Tf
+10.4 TL
+<467265656c616e636520b72032303234963230323620b72052656163742c204e6578742e6a732c204e6f64652e6a732c20507269736d612c20506f737467726553514c2c20446f636b6572> Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 495.6394 cm
+q
+0.066667 0.066667 0.066667 rg
+BT
+1 0 0 1 9 25.1 Tm
+/F1 8.5 Tf
+11.2 TL
+(Built the core contract creation flows and customer\055facing dashboards\054 then automated billing by integrating three external) Tj
+T*
+(systems\072 Haulogy \050energy contract data\051\054 Enedis \050electricity delivery point retrieval\051\054 and Pennylane \050accounting) Tj
+T*
+(synchronization\051 \227 replacing manual data entry between them with direct API integrations\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 475.6394 cm
+q
+0.066667 0.066667 0.066667 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F2 9.4 Tf
+11.8 TL
+(Coffee AI \227 RAG\055powered coffee shop finder) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 465.2394 cm
+q
+0.541176 0.541176 0.541176 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 8 Tf
+10.4 TL
+(Live product \267 Next\056js\054 Supabase\054 pgvector\054 OpenAI\054 Anthropic Claude) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 407.2394 cm
+q
+0.066667 0.066667 0.066667 rg
+BT
+1 0 0 1 9 47.5 Tm
+/F1 8.5 Tf
+11.2 TL
+(A conversational search tool\072 users ask in plain language \050\223a quiet spot with good wifi in Gueliz\224\051 and get back relevant coffee) Tj
+T*
+(shops\054 not keyword matches\056 Coffee shop data is embedded with OpenAI and stored in Postgres via pgvector\073 each query is) Tj
+T*
+(embedded and matched against that index with semantic similarity search\054 and the retrieved results are passed to Anthropic\222s) Tj
+T*
+(Claude to generate a direct\054 conversational answer \227 a full retrieval\055augmented generation pipeline\054 not a thin wrapper around) Tj
+T*
+(a single API call\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 390.4394 cm
+q
+0.427451 0.156863 0.85098 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 9 Tf
+12 TL
+(EXPERIENCE) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 373.6394 cm
+q
+BT
+1 0 0 1 0 2.4 Tm
+11.8 TL
+/F2 9.4 Tf
+0.066667 0.066667 0.066667 rg
+(Senior React \046 Next\056js Engineer \227 Freelance) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 363.2394 cm
+q
+0.541176 0.541176 0.541176 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 8 Tf
+10.4 TL
+(European Energy\055Tech Company \267 Remote \267 2024\2262026) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 338.8394 cm
+q
+0.066667 0.066667 0.066667 rg
+BT
+1 0 0 1 9 13.9 Tm
+/F1 8.5 Tf
+11.2 TL
+(Contract creation flows\054 customer dashboards\054 and billing automation for a French energy company\054 integrating Haulogy\054) Tj
+T*
+(Enedis\054 and Pennylane\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 322.0394 cm
+q
+0.066667 0.066667 0.066667 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F2 9.4 Tf
+11.8 TL
+(React Developer) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 311.6394 cm
+q
+0.541176 0.541176 0.541176 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 8 Tf
+10.4 TL
+(Interlincx \267 Los Angeles\054 CA \267 2021\2262024) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 287.2394 cm
+q
+0.066667 0.066667 0.066667 rg
+BT
+1 0 0 1 9 13.9 Tm
+/F1 8.5 Tf
+11.2 TL
+(Built form builders and client templates for content editors producing monetizable articles\073 worked directly with the engineering) Tj
+T*
+(team to extend the Netlify CMS\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 270.4394 cm
+q
+0.066667 0.066667 0.066667 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F2 9.4 Tf
+11.8 TL
+(Full Stack Developer) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 260.0394 cm
+q
+0.541176 0.541176 0.541176 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 8 Tf
+10.4 TL
+(Mobiletice \267 Geneva\054 Switzerland \267 2020\2262022) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 246.8394 cm
+q
+0.066667 0.066667 0.066667 rg
+BT
+1 0 0 1 9 2.7 Tm
+/F1 8.5 Tf
+11.2 TL
+(Built a large e\055learning platform with SSO authentication and real\055time features via web sockets\054 using Laravel and React\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 230.0394 cm
+q
+0.066667 0.066667 0.066667 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F2 9.4 Tf
+11.8 TL
+(Full Stack Developer) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 219.6394 cm
+q
+0.541176 0.541176 0.541176 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 8 Tf
+10.4 TL
+(Sagatech \267 Meknes\054 Morocco \267 2019\2262020) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 195.2394 cm
+q
+0.066667 0.066667 0.066667 rg
+BT
+1 0 0 1 9 13.9 Tm
+/F1 8.5 Tf
+11.2 TL
+(Built payment gateway and barcode scanner integrations on a SQL Server backend\054 then rebuilt the product as a cloud version) Tj
+T*
+(using Laravel\054 React\057Node\054 and MySQL\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 178.4394 cm
+q
+0.066667 0.066667 0.066667 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F2 9.4 Tf
+11.8 TL
+(Full Stack Developer) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 168.0394 cm
+q
+0.541176 0.541176 0.541176 rg
+BT
+1 0 0 1 0 2.4 Tm
+/F1 8 Tf
+10.4 TL
+(IN4 \267 Meknes\054 Morocco \267 2018\2262019) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 154.8394 cm
+q
+0.066667 0.066667 0.066667 rg
+BT
+1 0 0 1 9 2.7 Tm
+/F1 8.5 Tf
+11.2 TL
+(Built multiple e\055commerce websites\054 each with client\055specific requirements\054 using Laravel\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 134.8394 cm
+q
+BT
+1 0 0 1 0 3 Tm
+12 TL
+/F2 9 Tf
+0.427451 0.156863 0.85098 rg
+(EDUCATION \046 LANGUAGES) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 120.4394 cm
+q
+BT
+1 0 0 1 0 2.7 Tm
+11.4 TL
+/F2 8.7 Tf
+0.066667 0.066667 0.066667 rg
+(Engineer\047s Degree \227 Computer Science) Tj
+/F1 8.7 Tf
+(\054 Sup MTI\054 Morocco \0502017\2262020\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 109.0394 cm
+q
+0.066667 0.066667 0.066667 rg
+BT
+1 0 0 1 0 2.7 Tm
+/F1 8.7 Tf
+11.4 TL
+(Arabic \050Native\051 \267 French \050Fluent\051 \267 English \050Fluent\051) Tj
+T*
+ET
+Q
+Q
+
+endstream
 endobj
 xref
-0 9
+0 10
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000524 00000 n 
-0000000592 00000 n 
-0000000879 00000 n 
-0000000938 00000 n 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000341 00000 n 
+0000008573 00000 n 
+0000008614 00000 n 
+0000008721 00000 n 
+0000008833 00000 n 
+0000009164 00000 n 
 trailer
 <<
-/ID 
-[<ca9ae03b252857f6ac8ca3d8c65ed53a><ca9ae03b252857f6ac8ca3d8c65ed53a>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 6 0 R
-/Root 5 0 R
-/Size 9
+/Size 10
+/Root 1 0 R
+/Info 8 0 R
+/ID [ (\312\232\340\073\045\050W\366\254\214\243\330\306\136\325\072) (\312\232\340\073\045\050W\366\254\214\243\330\306\136\325\072) ]
 >>
 startxref
-4054
+17958
 %%EOF
